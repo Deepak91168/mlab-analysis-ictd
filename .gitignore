@@ -1,0 +1,16 @@
+.venv/
+.matplotlib/
+.claude/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Data and generated analysis outputs are transferred/stored separately.
+/mlab_data/*
+!/mlab_data/README.md
+/outputs/
+/input.csv
+/slides/
+/slides-dataset.zip
+/main.ipynb
+/ndt_india_cdf_histograms.png
